@@ -74,3 +74,10 @@ h1.logo {
     align-self: flex-end;
     margin-right: 50px;
 }
+
+/* Ad */
+.ad {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(143, 1, 143);
+}
