@@ -31,7 +31,6 @@ nav.container {
     justify-content: space-around;
     align-items: center;
     background-color: purple;
-    color: white;
     padding: 15px;
 }
 
@@ -42,4 +41,9 @@ ul, a {
     gap: 30px;
     color: white;
     font-size: 18px;
+}
+
+h1.logo {
+    font-size: 30px;
+    color: white;
 }
