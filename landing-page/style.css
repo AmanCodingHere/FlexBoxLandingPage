@@ -54,6 +54,12 @@ h1.logo {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(228, 228, 228);
-    padding: 80px;
+    background-color: #e5e7eb;
+    padding: 90px;
+    gap: 15px;
+}
+
+.quote p {
+    font-size: 25px;
+    font-style: italic;
 }
