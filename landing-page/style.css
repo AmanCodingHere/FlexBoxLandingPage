@@ -24,3 +24,13 @@ footer.container {
     padding: 40px;
     margin-top: auto;
 }
+
+/* Nav Header */
+nav.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: purple;
+    color: white;
+    padding: 5px;
+}
