@@ -1,3 +1,4 @@
+/* Boilerplate/Essentials */
 * {
     box-sizing: border-box;
     margin: 0px;
@@ -10,4 +11,12 @@ body {
     color: black;
     display: flex;
     flex-direction: column;
+}
+
+/* Footer */
+footer.container {
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
