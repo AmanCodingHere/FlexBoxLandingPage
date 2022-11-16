@@ -85,3 +85,12 @@ h1.logo {
     padding: 30px;
     margin: 80px;
 }
+
+.ad .title {
+    font-weight: bold;
+    align-self: start;
+}
+
+.ad .ad-content {
+    display: flex;
+}
