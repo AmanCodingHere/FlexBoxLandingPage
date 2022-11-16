@@ -47,3 +47,13 @@ h1.logo {
     font-size: 28px;
     color: white;
 }
+
+/* Quote */
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    padding: 80px;
+}
