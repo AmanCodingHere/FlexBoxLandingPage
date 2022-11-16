@@ -16,7 +16,10 @@ body {
 /* Footer */
 footer.container {
     background-color: purple;
+    color: white;
+    font-weight: bold;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 40px;
 }
