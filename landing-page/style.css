@@ -60,6 +60,7 @@ h1.logo {
 }
 
 .quote p {
+    width: 600px;
     font-size: 25px;
     font-style: italic;
 }
