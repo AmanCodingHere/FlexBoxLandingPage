@@ -64,3 +64,8 @@ h1.logo {
     font-size: 25px;
     font-style: italic;
 }
+
+.quote h4 {
+    display: flex;
+    align-self: flex-end;
+}
