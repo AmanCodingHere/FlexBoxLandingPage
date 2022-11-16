@@ -85,6 +85,7 @@ h1.logo {
     padding: 30px;
     margin: 80px;
     color: white;
+    border-radius: 6px;
 }
 
 .ad .title {
@@ -98,8 +99,9 @@ h1.logo {
 }
 
 .ad-content button {
-    border: 1px solid white;
+    border: 1.5px solid white;
     color: white;
     background-color: purple;
     padding: 2px 10px;
+    border-radius: 6px;
 }
