@@ -51,16 +51,20 @@ h1.logo {
 /* Quote */
 .quote {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: #e5e7eb;
     padding: 90px;
-    gap: 15px;
+}
+
+.quote-content {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .quote p {
-    width: 600px;
     font-size: 25px;
     font-style: italic;
 }
@@ -68,4 +72,5 @@ h1.logo {
 .quote h4 {
     display: flex;
     align-self: flex-end;
+    margin-right: 50px;
 }
