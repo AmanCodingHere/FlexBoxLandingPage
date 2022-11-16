@@ -84,6 +84,7 @@ h1.logo {
     background-color: purple;
     padding: 30px;
     margin: 80px;
+    color: white;
 }
 
 .ad .title {
@@ -93,4 +94,9 @@ h1.logo {
 
 .ad .ad-content {
     display: flex;
+    justify-content: space-between;
+}
+
+.ad-content button {
+    border: 2px solid white;
 }
