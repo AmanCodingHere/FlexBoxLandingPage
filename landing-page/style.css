@@ -113,4 +113,12 @@ h1.logo {
 content.container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:aliceblue;
 }
+
+.container .content-title {
+    color: rgb(80, 0, 80);
+}
+
