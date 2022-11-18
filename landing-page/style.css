@@ -78,6 +78,8 @@ h1.logo {
 /* Ad */
 .ad {
     display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: purple;
     padding: 30px;
     margin: 80px;
@@ -93,10 +95,9 @@ h1.logo {
 
 .ad-content h4 {
     font-weight: bold;
-    font-size: larger;
+    font-size: 1.2rem;
     align-self: start;
 }
-
 
 .ad-button {
     border: 1px solid white;
