@@ -128,3 +128,7 @@ content.container {
     gap: 20px;
 }
 
+.info img {
+    width: 200px;
+    height: 200px;
+}
