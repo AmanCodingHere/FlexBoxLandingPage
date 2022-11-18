@@ -114,11 +114,17 @@ content.container {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    background-color:aliceblue;
+    text-align: center;
+    margin: 60px auto;
 }
 
 .container .content-title {
     color: rgb(80, 0, 80);
+    margin-bottom: 30px;
+}
+
+.container .content {
+    display: flex;
+    gap: 20px;
 }
 
