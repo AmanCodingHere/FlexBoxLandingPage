@@ -78,7 +78,6 @@ h1.logo {
 /* Ad */
 .ad {
     display: flex;
-    flex-direction: column;
     background-color: purple;
     padding: 30px;
     margin: 80px;
@@ -97,7 +96,7 @@ h1.logo {
     justify-content: space-between;
 }
 
-.ad-content button {
+.ad-button {
     border: 1px solid white;
     color: white;
     background-color: purple;
