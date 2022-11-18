@@ -108,3 +108,9 @@ h1.logo {
     border-radius: 6px;
     font-weight: bold;
 }
+
+/* Main Content */
+content.container {
+    display: flex;
+    flex-direction: column;
+}
