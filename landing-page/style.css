@@ -142,3 +142,10 @@ content.container {
     width: 150px;
     height: 150px;
 }
+
+/* Hero content */
+header.container {
+    display: flex;
+    background-color: rgb(80, 0, 80);
+    color: white;
+}
