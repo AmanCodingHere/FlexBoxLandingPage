@@ -31,6 +31,10 @@ ul, a {
     font-size: 18px;
 }
 
+a:hover {
+    color: #daa520;
+}
+
 h1.logo {
     font-size: 28px;
     color: white;
