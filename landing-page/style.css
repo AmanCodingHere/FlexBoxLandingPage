@@ -158,5 +158,6 @@ header.container {
 }
 
 .container .hero-media {
-    
+    width: 400px;
+    height: 200px;
 }
