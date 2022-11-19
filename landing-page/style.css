@@ -156,11 +156,17 @@ header.container {
 .container .hero-content {
     display: flex;
     flex-direction: column;
+    margin-right: 40px;
     gap: 5px;
-    max-width: 50%;
+    max-width: 45%;
 }
 
 .hero-content button {
     display: flex;
     justify-content: center;
+}
+
+.container .hero-media {
+    width: 300px;
+    height: 150px;
 }
