@@ -128,7 +128,16 @@ content.container {
     gap: 20px;
 }
 
+.content .info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    gap: 15px;
+}
+
 .info img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
