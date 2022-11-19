@@ -159,3 +159,8 @@ header.container {
     gap: 5px;
     max-width: 50%;
 }
+
+.hero-content button {
+    display: flex;
+    justify-content: center;
+}
