@@ -155,10 +155,17 @@ header.container {
 .container .hero-content {
     display: flex;
     flex-direction: column;
+    gap: 5px;
+    max-width: 400px;
 }
 
-.hero-content button {
-
+button {
+    border: 1px solid rgb(80, 0, 80);
+    color: white;
+    background-color: purple;
+    padding: 3px 30px;
+    border-radius: 6px;
+    font-weight: bold;
 }
 
 .container .hero-media {
