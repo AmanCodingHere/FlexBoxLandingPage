@@ -149,6 +149,7 @@ header.container {
     color: white;
     display: flex;
     justify-content: center;
+    padding: 70px;
 }
 
 .container .hero-content {
