@@ -153,7 +153,8 @@ header.container {
 }
 
 .container .hero-content {
-
+    display: flex;
+    flex-direction: column;
 }
 
 .hero-content button {
