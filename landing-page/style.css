@@ -115,7 +115,7 @@ content.container {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    margin: 60px auto;
+    margin: 80px auto;
 }
 
 .container .content-title {
@@ -138,6 +138,7 @@ content.container {
 }
 
 .info img {
+    border: 5px purple solid;
     width: 150px;
     height: 150px;
 }
