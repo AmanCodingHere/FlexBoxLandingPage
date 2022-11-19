@@ -80,7 +80,7 @@ h1.logo {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    background-color: purple;
+    background-color: #daa520;
     padding: 40px 150px;
     margin: 100px auto;
     color: white;
@@ -103,7 +103,7 @@ h1.logo {
 .ad-button{
     border: 1px solid white;
     color: white;
-    background-color: purple;
+    background-color: #daa520;
     padding: 3px 30px;
     border-radius: 6px;
     font-weight: bold;
@@ -138,7 +138,7 @@ content.container {
 }
 
 .info img {
-    border: 5px purple solid;
+    border: 5px #daa520 solid;
     width: 150px;
     height: 150px;
 }
@@ -148,21 +148,27 @@ header.container {
     background-color:rgb(80, 0, 80) ;
     color: white;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     padding: 70px;
+    gap: 50px;
 }
 
 .container .hero-content {
     display: flex;
     flex-direction: column;
     gap: 5px;
-    max-width: 400px;
+    max-width: 500px;
+    margin-left: 100px;
+}
+
+.hero-content h1 {
+    font-size: 48px;
 }
 
 button {
     border: 1px solid rgb(80, 0, 80);
     color: white;
-    background-color: purple;
+    background-color: #daa520;
     padding: 3px 30px;
     border-radius: 6px;
     font-weight: bold;
