@@ -145,7 +145,8 @@ content.container {
 
 /* Hero content */
 header.container {
-
+    background-color:rgb(80, 0, 80) ;
+    color: white;
 }
 
 .container .hero-content {
@@ -157,5 +158,5 @@ header.container {
 }
 
 .container .hero-media {
-
+    
 }
